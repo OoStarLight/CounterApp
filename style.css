@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(98, 127, 209);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 10%;
+    padding: 2.5em;
+    margin: 18%;
+    
+}
+
+.button-holder{
+    margin-left: 60px;
+}
