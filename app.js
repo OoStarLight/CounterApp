@@ -21,7 +21,10 @@ function save(){
     
 }
 
-
+function setToZero(){
+    count = 0
+    counter.innerHTML = 0
+}
 
 
 
